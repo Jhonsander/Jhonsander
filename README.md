@@ -1,5 +1,5 @@
 
-## Hola, soy Jhon Alexander Rodríguez
+## 👋 Hola, soy Jhon Alexander Rodríguez
 
 ### Tecnólogo en Desarrollo de Software
 
@@ -51,5 +51,3 @@ sistemas de autenticación e integrando servicios de terceros.
 [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/1-repos-per-language.svg)
