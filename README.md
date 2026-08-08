@@ -18,7 +18,7 @@ sistemas de autenticación e integrando servicios de terceros.
 - 🔐 Interesado en autenticación, seguridad y diseño de API
 - 🌱 Actualmente perfeccionando mis conocimientos sobre sistemas backend escalables
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
 ### Backend
 
