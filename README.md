@@ -48,6 +48,6 @@ sistemas de autenticación e integrando servicios de terceros.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/github/stats.svg" />
-  <img src="./profile-summary-card-output/github/repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/stats.svg" height="180" />
+  <img src="./profile-summary-card-output/github/repos-per-language.svg" height="180" />
 </p>
