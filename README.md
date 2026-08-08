@@ -47,7 +47,9 @@ sistemas de autenticación e integrando servicios de terceros.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./profile-summary-card-output/github/stats.svg" height="180" />
-  <img src="./profile-summary-card-output/github/repos-per-language.svg" height="180" />
-</p>
+
+[![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://raw.githubusercontent.com/Jhonsander/Jhonsander/main/profile-summary-card-output/holi/1-repos-per-language.svg)
